@@ -7,7 +7,8 @@
     * [LinkedIn](https://www.linkedin.com/in/antony-injila-30a53410b)
     * [Twitter](https://twitter.com/injila_antony)
     * [Website](https://main.d3heso5i1vld9v.amplifyapp.com)
-
+- ### Current Project
+- Working on a Medium.com clone using Golang in the backend and ReactJS + Typscript in the frontend. Other technologies being used are AWS, Docker, K8
 <!---
 AntonyIS/AntonyIS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
