@@ -6,7 +6,7 @@
     * [LinkedIn](https://www.linkedin.com/in/antony-injila-30a53410b)
     * [Twitter](https://twitter.com/injila_antony)
     * [Website](https://main.d3heso5i1vld9v.amplifyapp.com)
-- ### Current Project (Notlify app)
+### Current Project (Notelify app)
 Building  a Medium.com clone called Notlify using Golang in the backend and ReactJS + Typscript in the frontend. Other technologies being used are AWS, Docker, K8.
 The backend built using Golang, is made up of several microservices. Each microservice will use the hexagonal architecture. Below is the list of services being used
 1. [User Service](https://github.com/AntonyIS/notlify-user-svc)
