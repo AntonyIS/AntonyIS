@@ -8,7 +8,7 @@
     * [Website](https://main.d3heso5i1vld9v.amplifyapp.com)
 ### Current Project (Notelify app)
 Building  a Medium.com clone called Notelify using Golang in the backend and ReactJS + Typscript in the frontend. Other technologies being used are AWS, Docker, K8.
-The backend built using Golang, is made up of several microservices. Each microservice will use the hexagonal architecture. Below is the list of services being used
+The backend built using Golang, is made up of several microservices. Each microservice uses the hexagonal architecture. Below is the list of services being used
 1. [Client service](https://github.com/AntonyIS/notlify-frontend)
 1. [User Service](https://github.com/AntonyIS/notlify-user-svc)
 2. [Article Service](https://github.com/AntonyIS/notlify-content-svc)
